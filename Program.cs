@@ -34,7 +34,7 @@ void Start()
 {
     string[] array = StrArray();
     Console.WriteLine();
-    Console.WriteLine("Initial Array:");
+    Console.WriteLine("Array of Strings:");
     PrintArray(array);
 }
 
