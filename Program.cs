@@ -30,12 +30,44 @@ string[] StrArray()
     return array;
 }
 
+//Счетчик размерности нового массива, удовлетворяющий условию
+int SizeNewStrArray(string[] array)
+{
+    int new_size = 0;
+    for(int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length < 4) new_size++;
+    }
+    return new_size;
+}
+
+//Формирование нового массива из старого, где длина строк каждого элемента массива
+//меньше или равна 3-м символам
+string[] NewStrArray(string[] array)
+{
+    int count = 0;
+    string[] arr = new string[SizeNewStrArray(array)];
+
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length < 4)
+        {
+            arr[count] = array[i]!;
+            count++;
+        }
+    }
+    return arr;
+}
+
 void Start()
 {
     string[] array = StrArray();
     Console.WriteLine();
     Console.WriteLine("Array of Strings:");
     PrintArray(array);
+    string[] new_arr = NewStrArray(array);
+    Console.WriteLine("New Resulting Array:");
+    PrintArray(new_arr);
 }
 
 Start();
