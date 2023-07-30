@@ -1,0 +1,15 @@
+C:\ControlWorkCsharp\bin\Debug\net7.0\ControlWorkCsharp.exe
+C:\ControlWorkCsharp\bin\Debug\net7.0\ControlWorkCsharp.deps.json
+C:\ControlWorkCsharp\bin\Debug\net7.0\ControlWorkCsharp.runtimeconfig.json
+C:\ControlWorkCsharp\bin\Debug\net7.0\ControlWorkCsharp.dll
+C:\ControlWorkCsharp\bin\Debug\net7.0\ControlWorkCsharp.pdb
+C:\ControlWorkCsharp\obj\Debug\net7.0\ControlWorkCsharp.csproj.AssemblyReference.cache
+C:\ControlWorkCsharp\obj\Debug\net7.0\ControlWorkCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ControlWorkCsharp\obj\Debug\net7.0\ControlWorkCsharp.AssemblyInfoInputs.cache
+C:\ControlWorkCsharp\obj\Debug\net7.0\ControlWorkCsharp.AssemblyInfo.cs
+C:\ControlWorkCsharp\obj\Debug\net7.0\ControlWorkCsharp.csproj.CoreCompileInputs.cache
+C:\ControlWorkCsharp\obj\Debug\net7.0\ControlWorkCsharp.dll
+C:\ControlWorkCsharp\obj\Debug\net7.0\refint\ControlWorkCsharp.dll
+C:\ControlWorkCsharp\obj\Debug\net7.0\ControlWorkCsharp.pdb
+C:\ControlWorkCsharp\obj\Debug\net7.0\ControlWorkCsharp.genruntimeconfig.cache
+C:\ControlWorkCsharp\obj\Debug\net7.0\ref\ControlWorkCsharp.dll
