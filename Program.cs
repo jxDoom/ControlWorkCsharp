@@ -63,7 +63,7 @@ void Start()
 {
     string[] array = StrArray();
     Console.WriteLine();
-    Console.WriteLine("Array of Strings:");
+    Console.WriteLine("Initial Array:");
     PrintArray(array);
     string[] new_arr = NewStrArray(array);
     Console.WriteLine("New Resulting Array:");
